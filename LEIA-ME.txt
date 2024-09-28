@@ -1,0 +1,10 @@
+Para executar o programa, abra a pasta no CMD e digite:
+
+pip install -r requirements.txt
+
+Logo após :
+
+python app.py
+
+
+Assim poderá usar o aplicativo.

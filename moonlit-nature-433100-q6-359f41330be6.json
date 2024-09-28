@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "moonlit-nature-433100-q6",
+  "private_key_id": "359f41330be6ae02dfee40aee1403077672a8190",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDCetdigyuzdKU9\nF92pGFb7HslYd57vNh0FE0nvzt9Fi6mmvww//uTKa0zbbd8pbLlHGbzaNuRKi4FE\n4m/EcWICtU+FGtB4N/muQ3nSm6LjNf0U5WuEjqL0NzHOSIQGnkR7hVmnUSW68IeK\ndnAoHowdfGhEDwTxionLPwoKwkdHxFV2iSoEClg+I5CrRGwiveeVIY7CFitSgijh\nzsRVW6BppDg7YlRuXZkcR+jrkJRuoMGk69cQhpLOpaShUc3EKPXynm0nklD1WG0s\nVAjFmE+M5assdOylEKY0WRIx4kdUkr/oRqw/dMzw+p+4/4AlxlaF9AEK53tvc5ko\nPk4sd8JxAgMBAAECggEADyQNqzV/nD3PVIGMaAsFUJEtx0Wu2bxKh5fgGHuwXcN5\nDoqOq1fOm6S9a9LyvhChHxQ1o/6EiPox8vk3DuHt6byQZ5I2GznuZh8KN7eWt54/\nKRaQZ5ZMQPugFMmH/9ToC37PA0v5xkNOJh1A75qrOWtzWaMatSxePHTYtQw5jPBs\n6Bk6SsiN1XoIUdaOkrKL337vDJ0xzwWEUpkCaTM3NbM++dufLqR9++eRmn73ELNZ\nMJ9ftxHk44C1vggz0OkIUi8IyxpYZzG4Qznc3iSkM0WRlW44l/BhS9y+9qdifsQq\na9N36/24HTSmBiEOohVxysmK5tEoEECLj0gfoMYFHQKBgQD6AFyuccicPPdyGvND\n1Zs01XbDQvnmP68VGXDS4EHobOXqtw+HtgbKlGbY4BXrFzhN916DFPguSvnjqYWB\nxEmP6FJQhrBbKvpjIHJXUA0TSUmPxIY+daMi6Ha5iLGujM+ngHV0p19GK7rLK9+B\nGvdfWwkwgFz98I4ZYIIKNluZPQKBgQDHJW/oz92U0TNBGjnubOoseyoSRup53upw\n6Y2LmAPikGhSJxuebxOOBlo7esyUdfSrHyFPy8KTW10ecUJmwvtL1qzy3UKR2sSf\nPckts7vpeAplibv6erCldxtdfsNJDxOG/UQQv7oar+McH32oaOsYHsvFxftMvmYR\nF7dNgxqZRQKBgQDa1PJLqEGnsR4P/VMu7406BBg+9yNzzg7dczV1AOPwJVJjz/WC\nH212acxUzmGhNOQOKxfJudM8AlkWVM8ONdkGZJ+Y6Sz5wHcHyeEMWH/5f88qTyYL\nCkHQTpeN8/9EAPHLdwBZKiCVdbW+Hhs4EXizOSakE9hSV/yqbfWmJsqrKQKBgQCQ\nNPLZspQw7GBiFzy2A1Z7iWCIxaOLRrmbs/QUjqrZiFqSitE8JBET+lOi2KSGKPhY\nZf14TAOFM1a18av0v+K7IyQv5bsL5VAWQ+aHWqyLPqrApkFh+zApUZuWU3HUWL96\nM7HzMvLv2kfqGH+k0PzUhZBnkZsNEp7UZ8kLrxE2xQKBgQDtraOXa0Sa3PlP2vgx\nDCqWkCxVSY00AxPa0+08cV2nmn9niMTzL4jD2W9k18udEtn9CkkcTTvevgPkT6cx\n7WTjqAZLOkRpSyHBlrh8SnRRvXkZQm1S3fqce4dh9IEJau3lj5/yLiCQryddtdDt\neZENorkvhH8XCi8i0/R+BfmRcg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "meuapp@moonlit-nature-433100-q6.iam.gserviceaccount.com",
+  "client_id": "106290783049606544202",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meuapp%40moonlit-nature-433100-q6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
